@@ -1,0 +1,236 @@
+{
+  "name": "Sarah",
+  "heroMessage": "Happy Birthday, Sarah! 🎂",
+  "heroSubheading": "Today is all about celebrating the wonderful person you are.",
+  "letter": {
+    "greeting": "My Dearest Sarah,",
+    "body": "Every single day spent knowing you has been an absolute gift. Your laughter lights up every room, your kindness touches every heart, and your love makes the world a better place.\n\nFrom the very first moment we met, I knew you were someone truly extraordinary. You have this magical ability to make everyone around you feel seen, valued, and loved.\n\nOn this special day, I want you to know just how deeply you are appreciated, cherished, and adored. You deserve every beautiful thing this world has to offer.\n\nHappy Birthday, my love. Here's to another incredible year of adventures, laughter, and endless joy together.",
+    "signature": "With all my love ❤️",
+    "signatureName": "Your Secret Admirer"
+  },
+  "theme": {
+    "primaryColor": "#f43f5e",
+    "secondaryColor": "#ec4899",
+    "accentColor": "#8b5cf6",
+    "bgFrom": "#fff1f2",
+    "bgTo": "#fdf2f8",
+    "darkBgFrom": "#1a0a0e",
+    "darkBgTo": "#1f0a1a"
+  },
+  "photos": [
+    {
+      "id": "1",
+      "src": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600&q=80",
+      "caption": "A beautiful memory together 💕",
+      "date": "January 2023"
+    },
+    {
+      "id": "2",
+      "src": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?w=600&q=80",
+      "caption": "Sweet moments like this ✨",
+      "date": "March 2023"
+    },
+    {
+      "id": "3",
+      "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80",
+      "caption": "Pure joy and happiness 🌸",
+      "date": "June 2023"
+    },
+    {
+      "id": "4",
+      "src": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=600&q=80",
+      "caption": "Making memories every day 🎉",
+      "date": "August 2023"
+    },
+    {
+      "id": "5",
+      "src": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?w=600&q=80",
+      "caption": "Forever grateful for you 💖",
+      "date": "October 2023"
+    },
+    {
+      "id": "6",
+      "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80",
+      "caption": "The best is yet to come 🌟",
+      "date": "December 2023"
+    }
+  ],
+  "timeline": [
+    {
+      "id": "1",
+      "date": "Day One",
+      "title": "The Day We First Met",
+      "description": "It was a perfectly ordinary day that turned into something extraordinary. Little did I know that meeting you would change everything.",
+      "emoji": "🌟",
+      "photo": null
+    },
+    {
+      "id": "2",
+      "date": "Spring 2022",
+      "title": "Our First Adventure",
+      "description": "We packed our bags and hit the road without a plan. Every turn was a surprise, every moment a new memory. The best trip ever.",
+      "emoji": "🗺️",
+      "photo": null
+    },
+    {
+      "id": "3",
+      "date": "Summer 2022",
+      "title": "That Perfect Evening",
+      "description": "Under the stars, with our favorite song playing softly in the background. A moment frozen in time that I'll treasure forever.",
+      "emoji": "🌙",
+      "photo": null
+    },
+    {
+      "id": "4",
+      "date": "Winter 2022",
+      "title": "A Special Celebration",
+      "description": "Surrounded by the people who love you most, your joy was infectious. Watching you be celebrated was one of the happiest moments of my life.",
+      "emoji": "🎊",
+      "photo": null
+    },
+    {
+      "id": "5",
+      "date": "Today",
+      "title": "Your Special Birthday 🎂",
+      "description": "Another year of growth, love, and beautiful moments. Today we celebrate YOU — the most amazing person I know.",
+      "emoji": "🎂",
+      "photo": null
+    }
+  ],
+  "specialReasons": [
+    {
+      "id": "1",
+      "icon": "😊",
+      "title": "Your Smile",
+      "message": "Your smile has the power to light up the darkest room and lift the heaviest heart. It's the first thing I think of when I think of you, and it makes every single day brighter."
+    },
+    {
+      "id": "2",
+      "icon": "💝",
+      "title": "Your Kindness",
+      "message": "The way you treat others with such genuine care and compassion is truly rare. You see the best in people and bring it out in them. The world is kinder because of you."
+    },
+    {
+      "id": "3",
+      "icon": "🌟",
+      "title": "Your Strength",
+      "message": "You face every challenge with incredible grace and resilience. Watching you overcome obstacles inspires me every single day. You are stronger than you know."
+    },
+    {
+      "id": "4",
+      "icon": "😂",
+      "title": "Your Humor",
+      "message": "Life is so much more fun with you in it. Your laugh is contagious, your wit is sharp, and your ability to find joy in everything makes every moment an adventure."
+    },
+    {
+      "id": "5",
+      "icon": "🤝",
+      "title": "Your Support",
+      "message": "No matter what happens, you are always there. Your unwavering support means more than words can express. I am so grateful to have you in my corner."
+    },
+    {
+      "id": "6",
+      "icon": "✨",
+      "title": "Your Magic",
+      "message": "There is something magical about you that is impossible to describe but impossible to ignore. You make ordinary moments feel extraordinary, and that is a truly special gift."
+    }
+  ],
+  "slideshow": [
+    {
+      "id": "1",
+      "src": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=1200&q=80",
+      "caption": "Every moment with you is a treasure 💕"
+    },
+    {
+      "id": "2",
+      "src": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?w=1200&q=80",
+      "caption": "Here's to a lifetime of adventures ✨"
+    },
+    {
+      "id": "3",
+      "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=80",
+      "caption": "You make every day feel special 🌸"
+    }
+  ],
+  "candles": 5,
+  "birthdayWish": "Close your eyes, make a wish, and believe with all your heart. Everything you dream of is possible. ✨",
+  "videos": [
+    {
+      "id": "1",
+      "type": "youtube",
+      "src": "https://www.youtube.com/embed/450p7goxZqg",
+      "title": "A Special Message For You 💌"
+    }
+  ],
+  "music": {
+    "title": "Happy Birthday Song",
+    "artist": "Special Dedication",
+    "src": "/music/birthday.mp3",
+    "autoplay": false
+  },
+  "giftBox": {
+    "title": "A Special Surprise! 🎁",
+    "message": "Every day with you is a gift. But today, I want to give something back — my promise to always be here, to always make you smile, and to always make you feel as loved as you truly are.\n\nHappy Birthday, my love. You deserve all the magic in the world. 💖",
+    "revealEmoji": "💝"
+  },
+  "memoryWall": [
+    {
+      "id": "1",
+      "note": "That time you laughed so hard you cried 😂",
+      "color": "#fce7f3"
+    },
+    {
+      "id": "2",
+      "note": "Your famous dance moves at 2am 💃",
+      "color": "#ede9fe"
+    },
+    {
+      "id": "3",
+      "note": "The way you say 'I love you' in your sleep 💕",
+      "color": "#fef3c7"
+    },
+    {
+      "id": "4",
+      "note": "How you always know exactly what to say 🌟",
+      "color": "#d1fae5"
+    },
+    {
+      "id": "5",
+      "note": "That road trip we took with zero planning 🗺️",
+      "color": "#fee2e2"
+    },
+    {
+      "id": "6",
+      "note": "Singing our favorite song on repeat 🎵",
+      "color": "#e0f2fe"
+    },
+    {
+      "id": "7",
+      "note": "Your cooking experiments (some worked!) 🍳",
+      "color": "#fce7f3"
+    },
+    {
+      "id": "8",
+      "note": "Movie nights that turned into all-nighters 🎬",
+      "color": "#ede9fe"
+    },
+    {
+      "id": "9",
+      "note": "The way you light up when you talk about your passion ✨",
+      "color": "#fef3c7"
+    }
+  ],
+  "closingMessage": "May your year be filled with happiness, laughter, success, and beautiful memories.",
+  "stats": {
+    "daysKnown": 730,
+    "memoriesMade": 1000,
+    "laughter": "∞",
+    "love": "Forever"
+  },
+  "birthday": "2025-06-04",
+  "seo": {
+    "title": "Happy Birthday Sarah! 🎂",
+    "description": "A special birthday surprise just for you. Made with love.",
+    "ogImage": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=1200&q=80"
+  }
+}
