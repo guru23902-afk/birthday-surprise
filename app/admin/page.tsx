@@ -407,25 +407,31 @@ export default function AdminPage() {
                   { key: "theme.accentColor", label: "Accent Color" },
                   { key: "theme.bgFrom", label: "Background From" },
                   { key: "theme.bgTo", label: "Background To" },
-                ] .map((c) => (
+                ].map((c) => {
+                  const colorValue = (c.key.split(".").reduce(
+                    (obj, k) => (obj as Record<string, unknown>)[k] as Record<string, unknown>,
+                    config as unknown as Record<string, unknown>
+                  ) as unknown) as string;
+                  return (
                   <div key={c.key}>
                     <label className={labelClass}>{c.label}</label>
                     <div className="flex gap-2 items-center">
                       <input
                         type="color"
-                        value={c.key.split(".").reduce((obj: Record<string, unknown>, k) => (obj as Record<string, unknown>)[k] as Record<string, unknown>, config as unknown as Record<string, unknown>) as string}
+                        value={colorValue}
                         onChange={(e) => update(c.key, e.target.value)}
                         className="w-10 h-10 rounded-lg cursor-pointer border border-white/20"
                         aria-label={c.label}
                       />
                       <input
                         className={`${inputClass} flex-1`}
-                        value={c.key.split(".").reduce((obj: Record<string, unknown>, k) => (obj as Record<string, unknown>)[k] as Record<string, unknown>, config as unknown as Record<string, unknown>) as string}
+                        value={colorValue}
                         onChange={(e) => update(c.key, e.target.value)}
                       />
                     </div>
                   </div>
-                ))}
+                  );
+                })}
               </div>
               <div className="bg-yellow-50 rounded-xl p-3 mt-4">
                 <p className="text-sm text-yellow-700">
