@@ -1,12 +1,12 @@
 {
-  "name": "Sarah",
-  "heroMessage": "Happy Birthday, Sarah! 🎂",
-  "heroSubheading": "Today is all about celebrating the wonderful person you are.",
+  "name": "PURVA ",
+  "heroMessage": "🎂 Happy Birthday to the most wonderful person!",
+  "heroSubheading": "May your day be filled with laughter, love, sweet surprises, and everything that makes you smile. Thank you for making life brighter just by being you.\n\nWishing you endless happiness today and always. 🌸✨\n\nHave an amazing birthday!",
   "letter": {
-    "greeting": "My Dearest Sarah,",
-    "body": "Every single day spent knowing you has been an absolute gift. Your laughter lights up every room, your kindness touches every heart, and your love makes the world a better place.\n\nFrom the very first moment we met, I knew you were someone truly extraordinary. You have this magical ability to make everyone around you feel seen, valued, and loved.\n\nOn this special day, I want you to know just how deeply you are appreciated, cherished, and adored. You deserve every beautiful thing this world has to offer.\n\nHappy Birthday, my love. Here's to another incredible year of adventures, laughter, and endless joy together.",
-    "signature": "With all my love ❤️",
-    "signatureName": "Your Secret Admirer"
+    "greeting": "Dear Best Friend (ARTIST JI)",
+    "body": "Happy Birthday!\n\nToday is a special day because it celebrates someone who means so much to me. I feel incredibly lucky to have a friend like you in my life. Through all the laughter, adventures, challenges, and unforgettable memories, you have always been there with your kindness, support, and genuine friendship.\n\nThank you for being the person I can always count on, whether I need advice, encouragement, or simply someone to share a laugh with. Your friendship has brought so much happiness into my life, and I cherish every moment we've spent together.\n\nAs you celebrate another wonderful year, I hope your life is filled with endless joy, good health, success, and all the happiness you deserve. May every dream you have come true, and may this year bring you exciting opportunities and beautiful memories.\n\nNo matter where life takes us, I will always be grateful for our friendship and the special bond we share. Thank you for being such an amazing friend and for making my life brighter just by being in it.\n\nEnjoy your special day, make wonderful memories, and never forget how loved and appreciated you are.\n\nHappy Birthday once again!",
+    "signature": "With lots of love and best wishes,",
+    "signatureName": "YASH"
   },
   "theme": {
     "primaryColor": "#f43f5e",
@@ -62,30 +62,6 @@
       "title": "The Day We First Met",
       "description": "It was a perfectly ordinary day that turned into something extraordinary. Little did I know that meeting you would change everything.",
       "emoji": "🌟",
-      "photo": null
-    },
-    {
-      "id": "2",
-      "date": "Spring 2022",
-      "title": "Our First Adventure",
-      "description": "We packed our bags and hit the road without a plan. Every turn was a surprise, every moment a new memory. The best trip ever.",
-      "emoji": "🗺️",
-      "photo": null
-    },
-    {
-      "id": "3",
-      "date": "Summer 2022",
-      "title": "That Perfect Evening",
-      "description": "Under the stars, with our favorite song playing softly in the background. A moment frozen in time that I'll treasure forever.",
-      "emoji": "🌙",
-      "photo": null
-    },
-    {
-      "id": "4",
-      "date": "Winter 2022",
-      "title": "A Special Celebration",
-      "description": "Surrounded by the people who love you most, your joy was infectious. Watching you be celebrated was one of the happiest moments of my life.",
-      "emoji": "🎊",
       "photo": null
     },
     {
@@ -166,64 +142,18 @@
     "title": "Happy Birthday Song",
     "artist": "Special Dedication",
     "src": "/music/birthday.mp3",
-    "autoplay": false
+    "autoplay": true
   },
   "giftBox": {
     "title": "A Special Surprise! 🎁",
     "message": "Every day with you is a gift. But today, I want to give something back — my promise to always be here, to always make you smile, and to always make you feel as loved as you truly are.\n\nHappy Birthday, my love. You deserve all the magic in the world. 💖",
     "revealEmoji": "💝"
   },
-  "memoryWall": [
-    {
-      "id": "1",
-      "note": "That time you laughed so hard you cried 😂",
-      "color": "#fce7f3"
-    },
-    {
-      "id": "2",
-      "note": "Your famous dance moves at 2am 💃",
-      "color": "#ede9fe"
-    },
-    {
-      "id": "3",
-      "note": "The way you say 'I love you' in your sleep 💕",
-      "color": "#fef3c7"
-    },
-    {
-      "id": "4",
-      "note": "How you always know exactly what to say 🌟",
-      "color": "#d1fae5"
-    },
-    {
-      "id": "5",
-      "note": "That road trip we took with zero planning 🗺️",
-      "color": "#fee2e2"
-    },
-    {
-      "id": "6",
-      "note": "Singing our favorite song on repeat 🎵",
-      "color": "#e0f2fe"
-    },
-    {
-      "id": "7",
-      "note": "Your cooking experiments (some worked!) 🍳",
-      "color": "#fce7f3"
-    },
-    {
-      "id": "8",
-      "note": "Movie nights that turned into all-nighters 🎬",
-      "color": "#ede9fe"
-    },
-    {
-      "id": "9",
-      "note": "The way you light up when you talk about your passion ✨",
-      "color": "#fef3c7"
-    }
-  ],
+  "memoryWall": [],
   "closingMessage": "May your year be filled with happiness, laughter, success, and beautiful memories.",
   "stats": {
-    "daysKnown": 730,
-    "memoriesMade": 1000,
+    "daysKnown": 308,
+    "memoriesMade": 305,
     "laughter": "∞",
     "love": "Forever"
   },
