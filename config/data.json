@@ -130,14 +130,7 @@
   ],
   "candles": 5,
   "birthdayWish": "Close your eyes, make a wish, and believe with all your heart. Everything you dream of is possible. ✨",
-  "videos": [
-    {
-      "id": "1",
-      "type": "youtube",
-      "src": "https://www.youtube.com/embed/450p7goxZqg",
-      "title": "A Special Message For You 💌"
-    }
-  ],
+  "videos": [],
   "music": {
     "title": "Happy Birthday Song",
     "artist": "Special Dedication",
